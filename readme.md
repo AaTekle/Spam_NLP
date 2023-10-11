@@ -67,7 +67,7 @@ To implement these NLP and ML techniques, we utilized several tools and librarie
 -  Google Bard
 
 ## Licensing
-- [MIT License](LICENSE).
+- [MIT License](LICENSE)
 
 ## Conclusion
 
