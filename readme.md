@@ -1,4 +1,4 @@
-# Spam Filter using ML NLP
+# Spam Filter using NLP
 
 Welcome to my Spam Filter project, a ML (machine learning) based Natural Language Processing (NLP) project. In this project, I have developed a spam filter that uses machine learning techniques to distinguish between spam and legitimate messages. This readme will provide an in-depth overview of my project, highlighting the key aspects and techniques of the project.
 
