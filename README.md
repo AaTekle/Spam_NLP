@@ -64,7 +64,6 @@ To implement these NLP and ML techniques, we utilized several tools and librarie
 
 ## Resources that have been helpful for me:
 -  https://www.kaggle.com/code/karnikakapoor/spam-or-ham-sms-classifier#SPAM-OR-HAM
--  Google Bard
 
 ## Licensing
 - [MIT License](LICENSE)
